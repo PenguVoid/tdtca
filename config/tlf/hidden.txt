@@ -1,0 +1,2 @@
+#List of Hidden Players
+fw007:false

@@ -1,0 +1,47 @@
+TODOO:
+
+- Basic Mechanics of the Skilltree
+    > Basic locking of features / mods
+        * locking mods and features down and adding a dependency
+    > Adding the Skilltree into Betterquesting for a user interaction
+        * creating an interactable concept and designing it
+        * making it user friendly and easy to understand (totaly trying to teach kids how rockets work)
+
+- adding mods (enhancing gameplay experience and features)
+    > Adding and removing mods depending on their condition and fit
+
+- Configs and balancing (when possible)
+    > Configuring mods to the needs of the Modpack
+        * doing some first adjustments
+        * getting things ready to get testet out in gameplay
+    > Balancing and Flatening everything out for a better fit (Whoops! wrong hole!)
+        * trying to get things more refined and changing things respectivly to the testing phase
+
+- Testing
+    > Debugging the shit out of this mess (who likes some cockroaches in their salad?)
+        * speeks for itself... no really it does.
+    > Getting a grasp of the general experience and refining it down to the needed resault
+        * adding and removing mod / edit configs accordingly
+        * more testing more debugging and repeated untill happy (if happynes is even a thing)
+
+- Creating a Lore
+    > Writing and Discussing the general idea of the story and writing it down
+        * comming up with a general concept of the story
+        * getting some ideas on the story progression / path
+    > Evolving it into a Larger and more complex piece that fits General needs
+        * Basic Peace of shit evolves into .... a usable piece of shit... i meant story
+        * more refining and adding until the piece is done
+    > splitting it up and make view point for different story experiences
+        * creating the different view points and what they might change
+        * more adding and refining but for the view point this time (what a suprise)
+        * discussing and sharing ideas and getting a grasp of cross pathing the story
+        * again more adding and refining.. can we do something else dad? ... no! and now screw of u little piece of shit
+        * rince and repeat until it's done
+
+- Doing the Voicelines
+    > Embarrasing ourselfes with out terrible story telling skills
+        * IMPORTANT. taking breaks and doing things in bite sized pieces
+        * coffee and cake party.
+    > Getting used to the process and refining things up
+        * name says it all. refining the voice usage to make for a more immersive story experience
+        * maybe getting some extra voices in

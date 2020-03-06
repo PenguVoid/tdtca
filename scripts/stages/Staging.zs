@@ -1,0 +1,16 @@
+mods.ItemStages.stageModItems("Mage", "totemic");
+mods.ItemStages.stageModItems("Technician", "betterwithmods");
+mods.ItemStages.stageModItems("Wizardry", "wizardry");
+mods.ItemStages.stageModItems("Thaumcraft", "thaumcraft");
+mods.ItemStages.stageModItems("Thaumcraft", "thaumictinkerer");
+mods.ItemStages.stageModItems("Thaumcraft", "thaumicperphery");
+mods.ItemStages.stageModItems("BloodMagic", "bloodmagic");
+mods.ItemStages.stageModItems("BloodMagic", "bloodarsenal");
+mods.ItemStages.stageModItems("Botania", "botania");
+mods.ItemStages.stageModItems("Psi", "psi");
+mods.ItemStages.stageModItems("AstralSorcery", "astralsorcery");
+mods.ItemStages.stageModItems("EmbersRekindled", "embers");
+mods.ItemStages.stageModItems("Forestry", "forestry");
+mods.ItemStages.stageModItems("ImmersiveEngineering", "immersiveengineering");
+mods.ItemStages.stageModItems("Vampire", "vampirism");
+mods.ItemStages.stageModItems("Werewolf", "howlingmoon");
